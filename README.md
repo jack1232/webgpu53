@@ -1,11 +1,9 @@
-# Step-by-Step WebGPU Graphics Programming (29) 
-## Create a Wellenkugel Surface
+# Step-by-Step WebGPU Graphics Programming (53) 
+## Create 3D Surface Charts using Multiple Pipelines
 
-This is the source code for the 29th part of a series YouTube videos on step-by-step WebGPU graphics programming.
+This is the source code for the 53th part of a series YouTube videos on step-by-step WebGPU graphics programming.
 
-This sample WebGPU app creates a 3D Wellenkugel surface. The output from the app is shown in the following image.
-
-![image01](dist/assets/image01.png)
+This sample WebGPU app creates 3D surface charts using multiple pipelines. 
 
 ## Link for All Source Code Used in the WebGPU Step-By-Step Video Series:
 
